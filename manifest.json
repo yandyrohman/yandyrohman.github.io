@@ -1,0 +1,52 @@
+{
+    "name": "The PWA",
+    "short_name": "pwa",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#f33446",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/icon/logo.png",
+            "type": "image/png",
+            "size": "72x72"
+        },
+        {
+            "src": "/icon/logo.png",
+            "type": "image/png",
+            "size": "96x96"
+        },
+        {
+            "src": "/icon/logo.png",
+            "type": "image/png",
+            "size": "128x128"
+        },
+        {
+            "src": "/icon/logo.png",
+            "type": "image/png",
+            "size": "144x144"
+        },
+        {
+            "src": "/icon/logo.png",
+            "type": "image/png",
+            "size": "152x152"
+        },
+        {
+            "src": "/icon/logo.png",
+            "type": "image/png",
+            "size": "192x192"
+        },
+        {
+            "src": "/icon/logo.png",
+            "type": "image/png",
+            "size": "384x384"
+        },
+        {
+            "src": "/icon/logo.png",
+            "type": "image/png",
+            "size": "512x512"
+        }
+    ]
+
+}

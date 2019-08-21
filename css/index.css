@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+
+main {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: #f33446;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    font-family: arial;
+    font-size: 30px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
