@@ -12,7 +12,7 @@ main {
     z-index: 99;
     font-family: arial;
     font-size: 30px;
-    color: #fff;
+    color: #000;
     display: flex;
     justify-content: center;
     align-items: center;
