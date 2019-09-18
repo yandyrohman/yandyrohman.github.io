@@ -1,12 +1,6 @@
 const staticCache = 'static-cache';
 const assets = [
-    '/',
-    '/index.html',
-    '/css/',
-    '/js/',
-    '/css/index.css',
-    '/js/app.js',
-    '/manifest.json'
+    
 ];
 
 // install service worker
