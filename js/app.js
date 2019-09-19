@@ -1,4 +1,4 @@
-document.getElementById('el').requestFullscreen();
+
 
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('/service.js')
