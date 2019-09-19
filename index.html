@@ -12,11 +12,17 @@
 </head>
 <body>
     
-    <main id="el">Halo Gan</main>
+    <main id="el">
+        Halo Gan<br>
+        <button onclick="btnChrome()">btnChrome</button>
+    </main>
 
 </body>
 <script src="/js/app.js"></script>
 <script>
-    document.getElementById('el').requestFullscreen();    
+    // document.getElementById('el').requestFullscreen();
+    function btnChrome() {
+      document.getElementById('el').webkitRequestFullScreen();
+    }
 </script>
 </html>
